@@ -3,5 +3,6 @@
 makan
 tidur
 membuat diskusi
--baju
+
 -kolabrasi wpu
+-ngevog
