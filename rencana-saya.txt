@@ -7,5 +7,6 @@
 -kuliah
 -tugas
  'kti
+ 'penelitian
 -menang lomba
  'juara1
