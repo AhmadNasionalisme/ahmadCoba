@@ -5,3 +5,4 @@
 -lomba
 -kuliah
 -tugas
+-menang lomba
