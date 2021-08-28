@@ -3,6 +3,8 @@
   +adventure
   +anak anak
 -lomba
--kuliah
+ 'internasional
+
 -tugas
+ 'buat framework
 -menang lomba
