@@ -3,6 +3,9 @@
   +adventure
   +anak anak
 -lomba
+ 'nasiona
 -kuliah
 -tugas
+ 'kti
 -menang lomba
+ 'juara1
